@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "c938523e3c0b53662b8e16c783dcf32d"
+build_time: [1581171253, 857320000]
+inputs:
+  "/Users/gunasegarran/Downloads/ML iOS/ReadingPhoneNumbersInRealTime/RealtimeNumberReader/StringUtils.swift": [1568863942, 0]
+  "/Users/gunasegarran/Downloads/ML iOS/ReadingPhoneNumbersInRealTime/RealtimeNumberReader/ViewController.swift": [1568863942, 0]
+  "/Users/gunasegarran/Downloads/ML iOS/ReadingPhoneNumbersInRealTime/RealtimeNumberReader/AppDelegate.swift": [1568863942, 0]
+  "/Users/gunasegarran/Downloads/ML iOS/ReadingPhoneNumbersInRealTime/RealtimeNumberReader/VisionViewController.swift": [1568863942, 0]
+  "/Users/gunasegarran/Downloads/ML iOS/ReadingPhoneNumbersInRealTime/RealtimeNumberReader/PreviewView.swift": [1568863942, 0]
